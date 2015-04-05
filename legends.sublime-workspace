@@ -1,0 +1,178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n    <link rel=\"icon\" href=\"../../favicon.ico\">\n\n    <title>Tottenham Legends</title>\ns\n    <!-- Bootstrap core CSS -->\n    <link href=\"dist/css/bootstrap.min.css\" rel=\"stylesheet\">\n\n\n\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n    <!-- Custom styles for this template -->\n    <link href=\"legends.css\" rel=\"stylesheet\">\n  </head>\n<!-- NAVBAR\n================================================== -->\n  <body>\n    <div class=\"navbar-wrapper\">\n      <div class=\"container\">\n\n        <nav class=\"navbar navbar-inverse navbar-static-top\">\n          <div class=\"container\">\n            <div class=\"navbar-header\">\n              <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span class=\"icon-bar\"></span>\n                <span class=\"icon-bar\"></span>\n                <span class=\"icon-bar\"></span>\n              </button>\n              <a class=\"navbar-brand\" href=\"#\">Spurs Legends</a>\n            </div>\n            <div id=\"navbar\" class=\"navbar-collapse collapse\">\n              <ul class=\"nav navbar-nav\">\n                <li class=\"active\"><a href=\"#\">Home</a></li>\n                <li><a href=\"#about\">Directions</a></li>\n                <li><a href=\"#contact\">Sponsorship</a></li>\n\n              </ul>\n            </div>\n          </div>\n        </nav>\n\n      </div>\n    </div>\n\n\n    <!-- Carousel\n    ================================================== -->\n    <div id=\"myCarousel\" class=\"carousel slide\" data-ride=\"carousel\">\n      <!-- Indicators -->\n      <ol class=\"carousel-indicators\">\n        <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n        <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n        <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n      </ol>\n      <div class=\"carousel-inner\" role=\"listbox\">\n        <div class=\"item active\">\n          <img class=\"first-slide\" src=\"http://www.hertsad.co.uk/polopoly_fs/1.1082819.1317989331!/image/1724649447.jpg_gen/derivatives/landscape_630/1724649447.jpg\" alt=\"First slide\">\n          <div class=\"container\">\n            <div class=\"carousel-caption\">\n              <h1>Charity Match.</h1>\n              <p>The star-studded Legends team will be managed by the great Ossie Ardilles, with other guest stars attending. Paul Coyte (Gold Radio) & Spurs Match Day Host, will be the announcer on the day.\n\n</p>\n              <p><a class=\"btn btn-lg btn-primary\" href=\"#\" role=\"button\">Directions</a></p>\n            </div>\n          </div>\n        </div>\n        <div class=\"item\">\n          <img class=\"second-slide\" src=\"http://www.arsenal.com/assets/_files/scaled/510x250/jul_10/gun__1278324572_jennings_pat.jpg\" alt=\"Second slide\">\n          <div class=\"container\">\n            <div class=\"carousel-caption\">\n              <h1>Pat Jennings</h1>\n              <p>Jennings spent thirteen years at White Hart Lane, where he played in 472 league games for Spurs, and 591 in all competitions. He won the FA Cup in 1967, the League Cup in 1971 and 1973, and the UEFA Cup in 1972.He also scored once, in the 1967 Charity Shield, from his own area, kicking the ball from his hands and sending a large punt down the field that bounced over Manchester United goalkeeper Alex Stepney and into the net.In 1973 the Football Writers' Association named him as its footballer of the year. Three years later he won PFA's version of the award – he was the first goalkeeper to receive this accolade .</p>\n              <p><a class=\"btn btn-lg btn-primary\" href=\"#\" role=\"button\">Great Saves</a></p>\n            </div>\n          </div>\n        </div>\n       <div class=\"item\">\n          <img class=\"second-slide\" src=\"http://www.tottenhamhotspur.com/uploadedImages/Shared_Assets/Images/News_images/SEASON_13-14/Legends/ray%20clem%20spurs%20730.jpg?n=5250&targetTypeID=HighResNewsImage\" alt=\"Second slide\">\n          <div class=\"container\">\n            <div class=\"carousel-caption\">\n              <h1>Ray Clemence</h1>\n              <p>Clemence's Spurs debut came in a league fixture at Ayresome Park on 28 August 1981, Middlesbrough couldn't prevent Clemence starting off with a win, losing 3–1. His first clean-sheet came three games later on 12 September at Molineux, when he kept Wolverhampton Wanderers at bay in the 1–0 victory.</p>\n              <p><a class=\"btn btn-lg btn-primary\" href=\"#\" role=\"button\">Great Saves</a></p>\n            </div>\n          </div>\n        </div>\n        <div class=\"item\">\n          <img class=\"third-slide\" src=\"http://e1.365dm.com/15/03/768x432/ossie-ardiles-spurs_3271942.jpg?20150303114254=\" alt=\"Third slide\">\n          <div class=\"container\">\n            <div class=\"carousel-caption\">\n              <h1>Ossie Ardiles</h1>\n              <p>After the 1978 World Cup he moved to England to play for Tottenham where he spent ten seasons.He helped Tottenham win the FA Cup in his third season there (1980–81), and collaborated with pop duo Chas & Dave as well as the rest of the Tottenham players for a song, \"Ossie's Dream\".</p>\n              <p><a class=\"btn btn-lg btn-primary\" href=\"#\" role=\"button\">Ossie CLips</a></p>\n            </div>\n          </div>\n        </div>\n      </div>\n      <a class=\"left carousel-control\" href=\"#myCarousel\" role=\"button\" data-slide=\"prev\">\n        <span class=\"glyphicon glyphicon-chevron-left\" aria-hidden=\"true\"></span>\n        <span class=\"sr-only\">Previous</span>\n      </a>\n      <a class=\"right carousel-control\" href=\"#myCarousel\" role=\"button\" data-slide=\"next\">\n        <span class=\"glyphicon glyphicon-chevron-right\" aria-hidden=\"true\"></span>\n        <span class=\"sr-only\">Next</span>\n      </a>\n    </div><!-- /.carousel -->\n\n\n    <div class=\"container marketing\">\n\n\n      <hr class=\"featurette-divider\">\n\n      <div class=\"row featurette\">\n        <div class=\"col-md-7\">\n          <h2 class=\"featurette-heading\">26th April 2015<br><span class=\"text-muted\">St Albans Football Ground</span></h2>\n          <p class=\"lead\">Tickets: £7 (Adults) £3.50 (Senior citizens & kids under 12) available at the turnstiles.\nThere will also be a grand raffle and auction to raise money for Cherry Lodge Cancer Care, as well as for Cystic Fibrosis, the event’s other chosen charity. The event is sponsored by Finchpalm..</p>\n        </div>\n        <div class=\"col-md-5\">\n          <img class=\"featurette-image img-responsive center-block\" data-src=\"holder.js/500x500/auto\" alt=\"Generic placeholder image\">\n        </div>\n      </div>\n\n      <!-- Three columns of text below the carousel -->\n      <div class=\"row\">\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"http://www.fansnetwork.co.uk/images/news/4797.jpg\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Mark Falco</h2>\n          <p>, Falco started his professional career as a junior at Tottenham Hotspur, making his first-team debut in 1979. In 2009, Mark Falco was voted as one of the top 50 greatest Spurs players of all time.</p>\n          <p><a class=\"btn btn-default\" href=\"http://en.wikipedia.org/wiki/Mark_Falco\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n      </div><!-- /.row -->\n\n      <div class=\"row\">\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n      </div><!-- /.row -->\n\n      <!-- START THE FEATURETTES -->\n\n      <hr class=\"featurette-divider\">\n\n      <div class=\"row featurette\">\n        <div class=\"col-md-7\">\n          <h2 class=\"featurette-heading\">First featurette heading. <span class=\"text-muted\">It'll blow your mind.</span></h2>\n          <p class=\"lead\">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>\n        </div>\n        <div class=\"col-md-5\">\n          <img class=\"featurette-image img-responsive center-block\" data-src=\"holder.js/500x500/auto\" alt=\"Generic placeholder image\">\n        </div>\n      </div>\n\n      <hr class=\"featurette-divider\">\n\n      <div class=\"row featurette\">\n        <div class=\"col-md-7 col-md-push-5\">\n          <h2 class=\"featurette-heading\">Oh yeah, it's that good. <span class=\"text-muted\">See for yourself.</span></h2>\n          <p class=\"lead\">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>\n        </div>\n        <div class=\"col-md-5 col-md-pull-7\">\n          <img class=\"featurette-image img-responsive center-block\" data-src=\"holder.js/500x500/auto\" alt=\"Generic placeholder image\">\n        </div>\n      </div>\n\n      <hr class=\"featurette-divider\">\n\n      <div class=\"row featurette\">\n        <div class=\"col-md-7\">\n          <h2 class=\"featurette-heading\">And lastly, this one. <span class=\"text-muted\">Checkmate.</span></h2>\n          <p class=\"lead\">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>\n        </div>\n        <div class=\"col-md-5\">\n          <img class=\"featurette-image img-responsive center-block\" data-src=\"holder.js/500x500/auto\" alt=\"Generic placeholder image\">\n        </div>\n      </div>\n\n      <hr class=\"featurette-divider\">\n\n      <!-- /END THE FEATURETTES -->\n\n\n      <!-- FOOTER -->\n      <footer>\n        <p class=\"pull-right\"><a href=\"#\">Back to top</a></p>\n        <p>&copy; Dibster &middot; <a href=\"#\">Privacy</a> &middot; <a href=\"#\">Terms</a></p>\n      </footer>\n\n    </div><!-- /.container -->\n\n\n    <!-- Bootstrap core JavaScript\n    ================================================== -->\n    <!-- Placed at the end of the document so the pages load faster -->\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js\"></script>\n    <script src=\"dist/js/bootstrap.min.js\"></script>\n    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->\n    <script src=\"assets/js/vendor/holder.js\"></script>\n  </body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 14148,
+			"file_write_time": 130727016459258792,
+			"settings":
+			{
+				"buffer_size": 13894,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dashenhurst/legends/legends.css",
+		"/C/Users/dashenhurst/legends/index.html",
+		"/C/Users/dashenhurst/legends/README.md",
+		"/C/Users/dashenhurst/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        <div class=\"item\">\n          <img class=\"second-slide\" src=\"http://www.arsenal.com/assets/_files/scaled/510x250/jul_10/gun__1278324572_jennings_pat.jpg\" alt=\"Second slide\">\n          <div class=\"container\">\n            <div class=\"carousel-caption\">\n              <h1>Pat Jennings</h1>\n              <p>Jennings spent thirteen years at White Hart Lane, where he played in 472 league games for Spurs, and 591 in all competitions. He won the FA Cup in 1967, the League Cup in 1971 and 1973, and the UEFA Cup in 1972.He also scored once, in the 1967 Charity Shield, from his own area, kicking the ball from his hands and sending a large punt down the field that bounced over Manchester United goalkeeper Alex Stepney and into the net.In 1973 the Football Writers' Association named him as its footballer of the year. Three years later he won PFA's version of the award – he was the first goalkeeper to receive this accolade .</p>\n              <p><a class=\"btn btn-lg btn-primary\" href=\"#\" role=\"button\">Great Saves</a></p>\n            </div>\n          </div>\n        </div>",
+			"      <div class=\"row\">\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n        <div class=\"col-lg-4\">\n          <img class=\"img-circle\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"Generic placeholder image\" width=\"140\" height=\"140\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n          <p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n        </div><!-- /.col-lg-4 -->\n      </div><!-- /.row -->"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 13894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
